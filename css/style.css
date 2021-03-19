@@ -127,7 +127,10 @@ header {
   padding: 1em;
 }
 .logo {
-  max-width: 100px;
+  max-width: 260px;
+}
+.logo img {
+  max-width: 250px;
 }
 .nav {
   position: fixed;
